@@ -1,0 +1,4 @@
+(executable
+ (name classify)
+ (public_name nullsec-classify)
+ (libraries str unix))

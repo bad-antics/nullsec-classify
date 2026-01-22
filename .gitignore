@@ -1,0 +1,12 @@
+_build/
+*.install
+*.opam
+.merlin
+*.byte
+*.native
+classify
+*.cmi
+*.cmo
+*.cmx
+*.o
+*.a
