@@ -11,7 +11,7 @@
  ╚═════╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚═╝        ╚═╝   
 ```
 
-**Hardened Malware Classification Engine in OCaml**
+**Secure Malware Classification Engine in OCaml**
 
 [![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)](https://ocaml.org/)
 [![Security](https://img.shields.io/badge/Security-Maximum-red?style=for-the-badge)](https://github.com/bad-antics)
