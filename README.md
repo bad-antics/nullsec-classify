@@ -19,7 +19,7 @@
 
 </div>
 
-## Security Hardening Features
+## Security Features Features
 
 ### Strong Static Type System
 - **Algebraic Data Types**: Exhaustive pattern matching for all cases
